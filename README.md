@@ -2,7 +2,7 @@
 
 ## Tasks:
 (1):
-    - 3x3 grid (table)
+- 3x3 grid (table)
     - grid object:
         - 2d array
         - each cell has:
